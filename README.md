@@ -1,2 +1,3 @@
 # i-have-idea
-total scipts: **77**
+total scipts: **88**
+Huge thanks to Wtap, Praise, greek(sladostrastnik)
