@@ -1,2 +1,2 @@
 # i-have-idea
-total scipts: **58**
+total scipts: **77**
