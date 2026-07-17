@@ -1,5 +1,5 @@
--- never use a chatgpt obfuscator [from coder]
--- никогда не используйте обфускаторы, созданные ии [от кодера]
+-- never use a chatgpt obfuscator
+-- никогда не используйте обфускаторы, созданные ии
 local CoreGui = game:GetService("CoreGui")
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
