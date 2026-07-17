@@ -13,7 +13,6 @@ local Themes = {
 ["g3oxq22kc"] = {Bg = Color3.fromRGB(45, 45, 45), Accent = Color3.fromRGB(188, 188, 188), Text = Color3.fromRGB(140, 140, 140)},
 ["CSG"] = {Bg = Color3.fromRGB(55, 30, 30), Accent = Color3.fromRGB(230, 45, 65), Text = Color3.fromRGB(255, 255, 255)}
 }
-
 _G.SelectedTheme = "CSG"
 --_G.KeySystemVerified = true maybe not work 
 ---------------------------------------------------------
