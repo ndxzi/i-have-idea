@@ -5,7 +5,7 @@ local function sendNotification(title, text, duration, image)
     game:GetService("StarterGui"):SetCore("SendNotification", {  
         Title = title;
         Text = text;
-        Duration = duration; 
+        Duration = duration;
         Icon = image;
     })
 end
