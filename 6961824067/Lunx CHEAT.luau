@@ -15,7 +15,7 @@ local Themes = {
 }
 
 _G.SelectedTheme = "CSG"
-
+--_G.KeySystemVerified = true maybe not work 
 ---------------------------------------------------------
 local function UnlockMouse()
     UserInputService.MouseBehavior = Enum.MouseBehavior.Default
