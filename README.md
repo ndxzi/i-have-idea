@@ -1,3 +1,3 @@
 # i-have-idea
-total scipts: **91**.
+total scipts: **94**.
 Huge thanks to Wftap, Praise, greek(sladostrastnik), DoomGuy 
