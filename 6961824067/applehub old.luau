@@ -10,7 +10,6 @@ local SaveManager = loadstring(game:HttpGet(repo .. "addons/SaveManager.lua"))()
 local Options = Library.Options
 local Toggles = Library.Toggles
 Library.ForceCheckbox = false
-
 -- ===============================
 -- ГЛАВНОЕ ОКНО
 -- ===============================
